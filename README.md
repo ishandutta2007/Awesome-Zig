@@ -90,3 +90,9 @@ Contributions are **highly welcome**! Please read [`CONTRIBUTING.md`](CONTRIBUTI
 - One line per entry in this format:
   ```markdown
   - [Project Name](link) – Short, compelling one-sentence description.
+  ```
+
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Zig&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Zig&type=date&legend=top-left)
