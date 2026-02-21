@@ -1,5 +1,9 @@
 # Awesome Zig ⚡
 
+
+![68747470733a2f2f7a69676c616e672e6f72672f7a69672d6c6f676f2d6c696768742e737667 (1)](https://github.com/user-attachments/assets/b0593226-b102-4ce2-8301-07361f3d2fe7)
+
+
 > A curated list of **high-quality** Zig projects, applications, tutorials, books, and resources.
 
 This list focuses on **actively maintained, real-world, production-ready** items that are excellent for learning or building with Zig today.
